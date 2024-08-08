@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/ccassolf/go-server/internal/api"
-	"github.com/ccassolf/go-server/internal/store/pgstore"
+	"github.com/rocketseat-education/semana-tech-go-react-server/internal/api"
+	"github.com/rocketseat-education/semana-tech-go-react-server/internal/store/pgstore"
 
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/joho/godotenv"
